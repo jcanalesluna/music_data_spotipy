@@ -8,4 +8,4 @@ Once you set up your account, you have to create a Client ID, and retrieve your 
 
 Also, in order to get familiar with the Spotify API and the endpoints you have access to, it 's very recommendable to read the [Spotify's Web API Documentation](https://developer.spotify.com/documentation/).
 
-Having said this, this programme allows you to use the Sptoify browser capabilities to search for an artist and retrieve data about the artist, their albums and their tracks. The data is directly stored in three separate pandas dataframes (df_artists, df_albums and df_tracks). 
+Having said this, this programme allows you to use the Spotify browser capabilities to search for an artist and retrieve data about the artist, their albums and their tracks. The data is directly stored in three separate pandas dataframes (df_artists, df_albums and df_tracks). 
